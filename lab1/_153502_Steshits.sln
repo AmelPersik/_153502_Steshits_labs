@@ -5,8 +5,6 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_153502_Steshits", "_153502_Steshits.csproj", "{196D1E9A-56E8-445F-BA0F-6097779EF4EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{4B88BB2A-7845-4EC5-9FB8-7B328E44FC2B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{196D1E9A-56E8-445F-BA0F-6097779EF4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{196D1E9A-56E8-445F-BA0F-6097779EF4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{196D1E9A-56E8-445F-BA0F-6097779EF4EF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4B88BB2A-7845-4EC5-9FB8-7B328E44FC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4B88BB2A-7845-4EC5-9FB8-7B328E44FC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4B88BB2A-7845-4EC5-9FB8-7B328E44FC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4B88BB2A-7845-4EC5-9FB8-7B328E44FC2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
