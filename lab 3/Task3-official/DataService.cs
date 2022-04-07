@@ -9,10 +9,9 @@ namespace LAB3_TASK3
     public class MyClass
     {
         public static void GetDay(string date)
-        {
+        {   
+            
             char[] arrays = date.ToCharArray();
-
-            var data = date.Split(new char[] { '.', ',', '/' });
 
             int day, month, year;
 
@@ -41,3 +40,4 @@ namespace LAB3_TASK3
         }
     }
 }
+/*var data = date.Split(new char[] { '.', ',', '/' });*/
