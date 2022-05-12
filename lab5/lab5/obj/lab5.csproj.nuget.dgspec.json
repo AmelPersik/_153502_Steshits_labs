@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stdas\\source\\repos\\lab5\\lab5\\lab5.csproj": {}
+    "C:\\Users\\stdas\\source\\repos\\_153502_Steshits\\lab5\\lab5\\lab5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stdas\\source\\repos\\lab5\\lab5\\lab5.csproj": {
+    "C:\\Users\\stdas\\source\\repos\\_153502_Steshits\\lab5\\lab5\\lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stdas\\source\\repos\\lab5\\lab5\\lab5.csproj",
+        "projectUniqueName": "C:\\Users\\stdas\\source\\repos\\_153502_Steshits\\lab5\\lab5\\lab5.csproj",
         "projectName": "lab5",
-        "projectPath": "C:\\Users\\stdas\\source\\repos\\lab5\\lab5\\lab5.csproj",
+        "projectPath": "C:\\Users\\stdas\\source\\repos\\_153502_Steshits\\lab5\\lab5\\lab5.csproj",
         "packagesPath": "C:\\Users\\stdas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stdas\\source\\repos\\lab5\\lab5\\obj\\",
+        "outputPath": "C:\\Users\\stdas\\source\\repos\\_153502_Steshits\\lab5\\lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stdas\\AppData\\Roaming\\NuGet\\NuGet.Config",
